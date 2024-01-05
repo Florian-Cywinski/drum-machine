@@ -4,5 +4,5 @@ Vanilla JS mini-app that is a custom drum machine using the HTML5 audio API  - f
 
 Produces different tones by pressing the A, S, D, F, G, H, J and K buttons.
 
-Try out the app :) - https
+Try out the app :) - https://boisterous-melomakarona-bb8ebd.netlify.app/
 
